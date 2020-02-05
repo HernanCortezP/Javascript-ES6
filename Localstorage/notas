@@ -1,0 +1,2 @@
+1.- JSON sirve para mandar datos de un sitio a otro y es un valor completamente en string.
+2.- Con el localstorage estamos mandando datos de nuestro servidor(app) a la maquina del usuario
